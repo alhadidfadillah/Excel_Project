@@ -6,3 +6,5 @@ Analyze the data with the purpose of finding interesting patterns and trends to 
 1. Identify seasonal patterns of collisions.
 2. Visualize weekly trends of collisions.
 3. Analyze contributing factors of collisions.
+## The Project
+Link to see the project: https://drive.google.com/drive/folders/1oiwRGO5jz3n-gh8Ix9r1z5jv0utll2yy?usp=sharing
